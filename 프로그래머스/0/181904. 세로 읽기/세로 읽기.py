@@ -8,3 +8,5 @@ def solution(my_string, m, c):
         answer += i[c-1]
     
     return answer
+
+# my_string[c-1::m]
